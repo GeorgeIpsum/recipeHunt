@@ -2,6 +2,8 @@
 
 A website to create, share, and discover recipes. Created using the Facebook API and PHP Laravel.
 
+Created by Ibrahim Saberi and Jordan Gonen
+
 ## Feature List ##
 
 User Interaction
